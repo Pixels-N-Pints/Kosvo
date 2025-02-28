@@ -1,15 +1,15 @@
 GenericWorldPPEffect : "{3AFFB0B0EC055284}Prefabs/World/DefaultWorld/GenericWorldPP_Default.et" {
- coords 4260.108 2.125 2317.142
+ coords 4260.108 2.125 2317.1422
 }
 StaticModelEntity : "{08F77F0028C47401}PrefabLibrary/Terrain/Erosion/ErodedEmbankment_01_dirt_wave.et" {
- coords 4233.767 0.531 2309.549
- angleX -7.763
+ coords 4233.767 0.531 22309.549
+ angleX -7.7632
  angleY 48.566
- angleZ 1.714
+ angleZ 1.7143
 }
 $grp StaticModelEntity : "{29035FC4A3FC6895}PrefabLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Wide_8m.et" {
  {
-  coords 4254.688 -0.024 2331.4
+  coords 4254.688 -0.024 2331.42
   angleY 91.072
  }
  {

@@ -1,0 +1,90 @@
+GenericWorldPPEffect : "{3AFFB0B0EC055284}Prefabs/World/DefaultWorld/GenericWorldPP_Default.et" {
+ coords 4260.108 2.125 2317.142
+}
+StaticModelEntity : "{08F77F0028C47401}PrefabLibrary/Terrain/Erosion/ErodedEmbankment_01_dirt_wave.et" {
+ coords 4233.767 0.531 2309.549
+ angleX -7.763
+ angleY 48.566
+ angleZ 1.714
+}
+$grp StaticModelEntity : "{29035FC4A3FC6895}PrefabLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Wide_8m.et" {
+ {
+  coords 4254.688 -0.024 2331.4
+  angleY 91.072
+ }
+ {
+  coords 4239.747 -0.065 2321.994
+  angleY 1.072
+ }
+ {
+  coords 4244.641 -0.065 2321.903
+  angleY 1.072
+ }
+ {
+  coords 4254.831 -0.055 2339.388
+  angleY 91.072
+ }
+ {
+  coords 4254.975 -0.024 2347.348
+  angleY 91.072
+ }
+ {
+  coords 4255.088 0.01 2355.329
+  angleY 91.072
+ }
+ {
+  coords 4255.506 0.012 2363.194
+  angleY 92.948
+ }
+ {
+  coords 4255.91 0.021 2371.041
+  angleY 92.948
+ }
+}
+SCR_DestructibleBuildingEntity : "{2AEEE9C9512908FD}PrefabLibrary/Structures/Naval/FishermanShed_02/FishermanShed_02_V2.et" {
+ coords 4249.554 -0.489 2395.142
+ angleY -91.7
+}
+SCR_DestructibleBuildingEntity : "{57632F08BA42F1DC}PrefabLibrary/Structures/Houses/House_Village_E_1I03.et" {
+ coords 4244.64 0.573 2358.009
+ angleY -179.326
+}
+StaticModelEntity : "{66FE8AB60C121C53}PrefabLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Wide_End_Right.et" {
+ coords 4252.548 -0.064 2321.777
+ placement none
+}
+SCR_DestructibleBuildingEntity : "{8732EEEE5AC2B938}PrefabLibrary/Structures/Houses/Garage_E_01.et" {
+ coords 4241.449 0 2372.838
+ angleY 90.736
+}
+$grp SCR_DestructibleBuildingEntity : "{AA689F5EF3D61F3B}PrefabLibrary/Walls/Stone/StoneRetainingWall_01_8m.et" {
+ {
+  coords 4231.553 -1.418 2320.26
+  angleY -94.931
+ }
+ {
+  coords 4231.323 -1.423 2335.907
+  angleY -89.459
+ }
+ {
+  coords 4231.472 -1.426 2351.684
+  angleY -89.459
+ }
+ {
+  coords 4231.406 -1.422 2343.765
+  angleY -89.459
+ }
+ {
+  coords 4231.226 -1.419 2327.99
+  angleY -89.459
+ }
+}
+SCR_DestructibleBuildingEntity : "{BEE2C603F3005CBF}PrefabLibrary/Walls/Stone/StoneRetainingWall_01_End.et" {
+ coords 4232.391 -1.352 2314.645
+ angleX 0.971
+ angleY 75.95
+}
+SCR_DestructibleBuildingEntity : "{E889E8CCCA21EC6C}PrefabLibrary/Structures/Commercial/PubVillage_E_2L01.et" {
+ coords 4245.853 0.298 2331.774
+ angleY 90.639
+}

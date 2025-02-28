@@ -1,0 +1,8 @@
+GameProject {
+ ID "Kosvo"
+ GUID "64AD2DDAD5275A8F"
+ TITLE "Kosvo"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

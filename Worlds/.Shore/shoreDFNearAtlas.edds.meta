@@ -1,0 +1,20 @@
+MetaFileClass {
+ Name "{BC81325D992FF77C}Worlds/.Shore/shoreDFNearAtlas.edds"
+ Configurations {
+  DDSResourceClass PC {
+   Conversion RedHQCompression
+   OriginalPixelBitDepth 1
+   GenerateMips 0
+  }
+  DDSResourceClass XBOX_ONE : PC {
+  }
+  DDSResourceClass XBOX_SERIES : PC {
+  }
+  DDSResourceClass PS4 : PC {
+  }
+  DDSResourceClass PS5 : PC {
+  }
+  DDSResourceClass HEADLESS : PC {
+  }
+ }
+}

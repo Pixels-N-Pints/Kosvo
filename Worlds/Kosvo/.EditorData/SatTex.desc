@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "C:/Users/Stalk/Downloads/55_117_14_924_12_2017_2017.png"
+ sRGBOutput 1
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA "8x"
+}

@@ -1,0 +1,20 @@
+MetaFileClass {
+ Name "{EA356A5256F700E9}Worlds/.Shore/shoreDFAtlas.edds"
+ Configurations {
+  DDSResourceClass PC {
+   Conversion None
+   OriginalPixelBitDepth 1
+   GenerateMips 0
+  }
+  DDSResourceClass XBOX_ONE : PC {
+  }
+  DDSResourceClass XBOX_SERIES : PC {
+  }
+  DDSResourceClass PS4 : PC {
+  }
+  DDSResourceClass PS5 : PC {
+  }
+  DDSResourceClass HEADLESS : PC {
+  }
+ }
+}

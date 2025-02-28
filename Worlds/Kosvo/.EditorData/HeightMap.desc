@@ -1,0 +1,7 @@
+HeightMapImportDescClass {
+ FileName "C:/Users/Stalk/Downloads/55_117_14_924_12_2017_2017.png"
+ Flags 4
+ MinHeight -1000000
+ ResampleMinHeight -80
+ ResampleMaxHeight 100
+}

@@ -14,7 +14,7 @@ CameraManager CameraManager1 {
 }
 TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeatherManager.et" {
  coords 3099.68 0 1210.138
- "Initial Day Time" 11.851
+ "Initial Day Time" 6.987
  Year 1899
  "Month of the Year" 1
  "Day of the Month" 1

@@ -1,3 +1,6 @@
+MapEntity MapEntity1 {
+ coords 4256.119 1.633 2364.859
+}
 GenericTerrainEntity Kosvo : "{221ABC927C672E4E}Prefabs/World/DefaultWorld/GenericTerrain_Default.et" {
 }
 GenericWorldPPEffect {

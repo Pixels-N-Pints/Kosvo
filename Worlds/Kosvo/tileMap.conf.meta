@@ -1,0 +1,18 @@
+MetaFileClass {
+ Name "{A75E6C12548A1B0D}Worlds/Kosvo/tileMap.conf"
+ Configurations {
+  CONFResourceClass PC {
+   Present No
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

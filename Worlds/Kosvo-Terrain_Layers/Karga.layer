@@ -408,8 +408,10 @@ $grp StaticModelEntity : "{29035FC4A3FC6895}PrefabLibrary/Infrastructure/Pavemen
   angleY 92.948
  }
  {
-  coords 4255.91 0.021 2371.041
-  angleY 92.948
+  coords 4255.864 0.022 2370.22
+  angleX 0.134
+  angleY 92.947
+  angleZ 0.285
  }
  {
   coords 4254.538 -0.017 2323.553

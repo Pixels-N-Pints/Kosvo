@@ -22139,7 +22139,7 @@ $grp SplineShapeEntity {
   coords 3494.309 13.844 229.203
   Points {
    ShapePoint "{64C94E19A6F387F8}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{64C94E19A6F06C6F}" {
     Position -0.148 0.025 30.289
@@ -22211,7 +22211,7 @@ $grp SplineShapeEntity {
      }
      $grp SCR_DestructibleEntity : "{AE95BD0AAF0333F3}PrefabLibrary/Walls/Wooden/WoodenWall_01_4m_D.et" {
       {
-       coords 0 -0 -0.032
+       coords 0 0 -0.032
        angleY -90.281
       }
       {
@@ -22230,13 +22230,13 @@ $grp SplineShapeEntity {
     Position -4.505 -0.068 -1.04
    }
    ShapePoint "{64C94E193640336B}" {
-    Position 5.061 -0 -0.422
+    Position 5.061 0 -0.422
    }
    ShapePoint "{64C94E192826D4C0}" {
-    Position 10.444 -0 -0.243
+    Position 10.444 0 -0.243
    }
    ShapePoint "{64C94E1929A29F7B}" {
-    Position 17.263 -0 -0.076
+    Position 17.263 0 -0.076
    }
    ShapePoint "{64C94E192924C660}" {
     Position 26.474 0.031 0.02
@@ -22257,7 +22257,7 @@ $grp SplineShapeEntity {
     Position 57.986 0.026 1.19
    }
    ShapePoint "{64C94E1EF6789CE0}" {
-    Position 65.454 -0 2.537
+    Position 65.454 0 2.537
    }
   }
   LineColor 0 0 0 0
@@ -22344,13 +22344,13 @@ $grp SplineShapeEntity {
   coords 3493.382 13.875 248.334
   Points {
    ShapePoint "{64C94E1E65CBC701}" {
-    Position 0.679 -0 -0.126
+    Position 0.679 0 -0.126
    }
    ShapePoint "{64C94E1E65CBAC7E}" {
-    Position -20.667 -0 0.419
+    Position -20.667 0 0.419
    }
    ShapePoint "{64C94E1E1BF5E842}" {
-    Position -20.766 -0 -9.243
+    Position -20.766 0 -9.243
    }
   }
   LineColor 0 0 0 0
@@ -22360,29 +22360,29 @@ $grp SplineShapeEntity {
     Flags 1048579
     {
      SCR_DestructibleEntity : "{3959F534B9C165EA}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_4m_B_green.et" {
-      coords -15.286 -0 0.282
+      coords -15.286 0 0.282
       angleY -178.537
      }
      SCR_DestructibleEntity : "{6BB2540CAAD4120B}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_Pole.et" {
-      coords -20.801 -0 -9.476
+      coords -20.801 0 -9.476
       angleY -261.47
      }
      $grp SCR_DestructibleEntity : "{792FDE47F87C9F65}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_B_green.et" {
       {
-       coords 0.709 -0 -0.127
+       coords 0.709 0 -0.127
        angleY -178.537
       }
       {
-       coords -7.289 -0 0.077
+       coords -7.289 0 0.077
        angleY -178.537
       }
       {
-       coords -19.317 -0 0.414
+       coords -19.317 0 0.414
        angleY -261.47
       }
      }
      SCR_DestructibleEntity : "{82E05DC9AB962EB3}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_2m_green.et" {
-      coords -20.504 -0 -7.497
+      coords -20.504 0 -7.497
       angleY -261.47
      }
     }
@@ -22396,13 +22396,13 @@ $grp SplineShapeEntity {
     Position -4.505 -0.068 -1.04
    }
    ShapePoint "{64C94E193640336B}" {
-    Position 5.061 -0 -0.422
+    Position 5.061 0 -0.422
    }
    ShapePoint "{64C94E192826D4C0}" {
-    Position 10.444 -0 -0.243
+    Position 10.444 0 -0.243
    }
    ShapePoint "{64C94E1929A29F7B}" {
-    Position 17.263 -0 -0.076
+    Position 17.263 0 -0.076
    }
    ShapePoint "{64C94E192924C660}" {
     Position 26.474 0.031 0.02
@@ -22423,7 +22423,7 @@ $grp SplineShapeEntity {
     Position 57.986 0.026 1.19
    }
    ShapePoint "{64C94E1EF6789CE0}" {
-    Position 65.454 -0 2.537
+    Position 65.454 0 2.537
    }
   }
   LineColor 0 0 0 0
